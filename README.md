@@ -26,5 +26,5 @@ This project sets up a **WireGuard VPN server** using Docker on a MacBook Pro (M
 ### 1. Clone this repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ragazini/wireguard-docker/tree/main;
 cd wireguard-docker
