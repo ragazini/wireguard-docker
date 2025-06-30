@@ -28,3 +28,4 @@ This project sets up a **WireGuard VPN server** using Docker on a MacBook Pro (M
 ```bash
 git clone https://github.com/ragazini/wireguard-docker/tree/main;
 cd wireguard-docker
+# Update Tue  1 Jul 2025 07:40:39 AEST
